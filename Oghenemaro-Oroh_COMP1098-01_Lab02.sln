@@ -5,6 +5,10 @@ VisualStudioVersion = 25.0.1700.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oghenemaro-Oroh_Ex-01", "Oghenemaro-Oroh_Ex-01\Oghenemaro-Oroh_Ex-01.csproj", "{1EF8C0EB-4203-4325-812E-65F4B43B9A62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oghenemaro-Oroh_Ex-02", "Oghenemaro-Oroh_Ex-02\Oghenemaro-Oroh_Ex-02.csproj", "{7112958B-D013-42BF-9BF5-CD6B528B9718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oghenemaro-Oroh_Ex-03", "Oghenemaro-Oroh_Ex-03\Oghenemaro-Oroh_Ex-03.csproj", "{4DC04284-473C-4E70-AC8F-A56BDCA03CD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1EF8C0EB-4203-4325-812E-65F4B43B9A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EF8C0EB-4203-4325-812E-65F4B43B9A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EF8C0EB-4203-4325-812E-65F4B43B9A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7112958B-D013-42BF-9BF5-CD6B528B9718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7112958B-D013-42BF-9BF5-CD6B528B9718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7112958B-D013-42BF-9BF5-CD6B528B9718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7112958B-D013-42BF-9BF5-CD6B528B9718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC04284-473C-4E70-AC8F-A56BDCA03CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC04284-473C-4E70-AC8F-A56BDCA03CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC04284-473C-4E70-AC8F-A56BDCA03CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC04284-473C-4E70-AC8F-A56BDCA03CD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
